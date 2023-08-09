@@ -118,5 +118,6 @@ The routing configuration defines the navigation paths within the application, a
 ![nav_logged_admin](https://github.com/TodorYadkov/SoftUni/assets/4013980/10ee64ae-3434-4127-b8d1-0bef34323ae2)
 
 ## Footer
-![footer](https://github.com/TodorYadkov/SoftUni/assets/4013980/fe953e77-32b2-4677-90a9-dbc910a6e3e8)
+![footer](https://github.com/RosenDobrev10/Football-Players/assets/104829819/f5c27107-ea9b-437c-8ba0-cc51c3a6fc28)
+
 
