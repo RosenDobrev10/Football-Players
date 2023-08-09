@@ -87,37 +87,28 @@ The routing configuration defines the navigation paths within the application, a
 # Screenshots
 
 ## Home Page
-![home_page](https://github.com/TodorYadkov/SoftUni/assets/4013980/0b9eb47f-7f39-45c0-bc8d-cefc39076e2d)
-![home_page-1](https://github.com/TodorYadkov/SoftUni/assets/4013980/a10d4ab9-aba1-4370-8236-ed00b5b97faf)
+![home-page](https://github.com/RosenDobrev10/Football-Players/assets/104829819/5248dd6b-7b63-44f7-8814-e4d0c7903e89)
 
 ## Login
-![login](https://github.com/TodorYadkov/SoftUni/assets/4013980/43e92aea-df0e-4501-9cb5-0303993b0f7b)
+![login](https://github.com/RosenDobrev10/Football-Players/assets/104829819/16ea197e-fb0b-45e4-bd4b-d0d64af92020)
 
 ## Register
-![register](https://github.com/TodorYadkov/SoftUni/assets/4013980/6689afd1-5cb7-4c3f-9694-3a832016c06e)
-
-## About Us
-![about-us](https://github.com/TodorYadkov/SoftUni/assets/4013980/59941b8e-db22-48f2-a453-d135bda2072d)
+![register](https://github.com/RosenDobrev10/Football-Players/assets/104829819/5deb83ea-f8b9-4546-b0cf-55b496ddf53a)
 
 ## User Profile
-![user-profile](https://github.com/TodorYadkov/SoftUni/assets/4013980/343e37f8-9f3a-49fa-bc5a-111cd0724fb4)
+![profile](https://github.com/RosenDobrev10/Football-Players/assets/104829819/5b05f0a6-eb08-40a5-b78a-bfef3afd5448)
 
-## Admin Profile
-![user-admin](https://github.com/TodorYadkov/SoftUni/assets/4013980/7e664f40-d818-47dc-bdca-64ab723f2014)
+## Search
+![search](https://github.com/RosenDobrev10/Football-Players/assets/104829819/c62d081d-b72f-4aa2-97e1-b656f304f663)
 
-## Order
-![order](https://github.com/TodorYadkov/SoftUni/assets/4013980/da365179-b158-4058-a6b3-859e48c558ba)
+## Add
+![add](https://github.com/RosenDobrev10/Football-Players/assets/104829819/02bb608b-a1f5-4e8b-adf4-70a771c8f807)
 
 ## Navigation - Not Logged In
-![nav_not_logged](https://github.com/TodorYadkov/SoftUni/assets/4013980/ecfb9c48-3704-4878-af24-8247dbaa1faf)
+![header-not-logged=in](https://github.com/RosenDobrev10/Football-Players/assets/104829819/0bded223-5a14-4518-96ff-b01f9f83fb38)
 
 ## Navigation - Logged In User
-![nav_logged_user](https://github.com/TodorYadkov/SoftUni/assets/4013980/d5c6988c-381c-4647-b417-69420cc2981a)
-
-## Navigation - Logged In Admin
-![nav_logged_admin](https://github.com/TodorYadkov/SoftUni/assets/4013980/10ee64ae-3434-4127-b8d1-0bef34323ae2)
+![header-logged-in](https://github.com/RosenDobrev10/Football-Players/assets/104829819/46966bee-1b7a-4437-b35b-7bed9075f98f)
 
 ## Footer
 ![footer](https://github.com/RosenDobrev10/Football-Players/assets/104829819/f5c27107-ea9b-437c-8ba0-cc51c3a6fc28)
-
-
