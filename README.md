@@ -63,26 +63,30 @@ The Angular frontend of Football Players is deployed on [Netlify](https://www.ne
 ## App Module
 The `AppModule` is the root module of the application. It sets up the main components and services, and it acts as the entry point to the application.
 
-![AppModule](https://github.com/TodorYadkov/SoftUni/assets/4013980/777ae6e6-a42e-4f0c-a77f-aeddc607f8f3)
+![AppModule](https://github.com/RosenDobrev10/Football-Players/assets/104829819/417f5fb7-cca6-406c-a216-65ae346d4aff)
 
-## Features Module
-The `FeaturesModule` contains feature-specific components.
+## Auth Module
+The `AuthModule` contains components about users.
 
-![features-module](https://github.com/TodorYadkov/SoftUni/assets/4013980/543b520b-447e-4e6b-a3c2-e2ecae55c4c4)
+![AuthModule](https://github.com/RosenDobrev10/Football-Players/assets/104829819/a9947a91-5ae8-4939-897a-2053bf194d2d)
 
+## Players Module
+The `PlayersModule` contains components about players.
+
+![PlayersModule](https://github.com/RosenDobrev10/Football-Players/assets/104829819/c03b17a4-07d7-4a74-8a33-ab00e8f07578)
 
 ## Shared Module
 The `SharedModule` includes components that are shared across the application.
 
-![SharedModule](https://github.com/TodorYadkov/SoftUni/assets/4013980/e4b935ec-8003-442c-a5cf-f01f2f4b9653)
+![SharedModule](https://github.com/RosenDobrev10/Football-Players/assets/104829819/449cc300-4df5-4f5c-ba31-b9e011f53323)
 
 ## Routes
 The routing configuration defines the navigation paths within the application, allowing users to access different views based on their roles and actions.
 
-![routes](https://github.com/TodorYadkov/SoftUni/assets/4013980/cde36bd9-a870-4a14-943e-c4d8d9b3b7e0)
+![Routes](https://github.com/RosenDobrev10/Football-Players/assets/104829819/a47cf93a-c391-4db5-8eb8-7618c70c7904)
 
 ## Entire overview
-![overview](https://github.com/TodorYadkov/SoftUni/assets/4013980/65fe5fb1-01cc-4aa2-b3da-4c272bb48970)
+![Overview](https://github.com/RosenDobrev10/Football-Players/assets/104829819/23a2e762-2002-4c55-b80b-e14a49286835)
 
 # Screenshots
 
