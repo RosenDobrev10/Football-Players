@@ -22,7 +22,7 @@
 
 The main objective of Football Player application is to provide users with an easy-to-use platform to see their favourite players.
 
-- **Not Logged-in User:** Can view each player profile without functionalities, login, register, and home page.
+- **Not Logged-in User:** Can view each player profile without functionalities, login, register, search and home page.
 - **Logged-in User:** Can add new players, view their own profile with added players, and edit/delete the players they added. They can also like players, that other users create.
 
 ## Features
