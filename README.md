@@ -1,6 +1,6 @@
 # Football Players
 
-**Football Players** is my final project for the Angular course in SoftUni.The application is created with SoftUni practice server for backend and Angular for the frontend.
+**Football Players** is my final project for the Angular course in SoftUni. The application is created with SoftUni practice server for backend and Angular for the frontend.
 
 **Football Players** is a web application that allows users to see their favourite players. Basic authentication is available, depending on whether you are creator or not of the player there is different functionalities. If you are the creator you can edit or delete your player, otherwise you can like the player.  
 
