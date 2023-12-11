@@ -9,7 +9,6 @@
 1. [Introduction](#introduction)
 2. [Features](#features)
    - [User Features](#user-features)
-   - [Administrator Features](#administrator-features)
 3. [Demo](#demo)
 4. [Deployment](#deployment)
    - [Backend Deployment](#backend-deployment)
