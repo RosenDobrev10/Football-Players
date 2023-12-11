@@ -1,29 +1,53 @@
 # Football Players
 
-**Football Players** is my final project for the Angular course in SoftUni.The application is created with SoftUni practice server for backend and Angular for the frontend.
+**Football Players** is my final project for the Angular course in SoftUni. The application is created with SoftUni practice server for backend and Angular for the frontend.
 
 **Football Players** is a web application that allows users to see their favourite players. Basic authentication is available, depending on whether you are creator or not of the player there is different functionalities. If you are the creator you can edit or delete your player, otherwise you can like the player.  
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Features](#features)
-   - [User Features](#user-features)
-   - [Administrator Features](#administrator-features)
+1. [Overview](#overview)
+2. [Local installation](#local-installation)
 3. [Demo](#demo)
-4. [Deployment](#deployment)
+4. [Features](#features)
+   - [User Features](#user-features)
+5. [Deployment](#deployment)
    - [Backend Deployment](#backend-deployment)
    - [Frontend Deployment](#frontend-deployment)
    - [Database](#database)
-5. [Architecture-Overview](#architecture-overview)
-6. [Screenshots](#screenshots)
+6. [Architecture-Overview](#architecture-overview)
+7. [Screenshots](#screenshots)
+8. [License](#license)
    
-## Introduction
+## Overview
 
 The main objective of Football Player application is to provide users with an easy-to-use platform to see their favourite players.
 
 - **Not Logged-in User:** Can view each player profile without functionalities, login, register, search and home page.
 - **Logged-in User:** Can add new players, view their own profile with added players, and edit/delete the players they added. They can also like players, that other users create.
+
+- ## Local installation
+
+### To install and preview locally, follow these steps:
+1. Clone the repository to your local machine
+2. Navigate to the server folder to start the server (cd .\server\)
+    - Start the server with (node .\index.js) command to start the back-end
+3. Navigate to the client folder (cd .\client\)
+    - npm install - command for install all packages and dependencies
+    - npm start - to start the development server and run the app
+    - open your browser and go to http://localhost:4200 to access the application
+  
+## Demo
+
+Check out the live demo of Football Players at [https://main--football-players-rd.netlify.app](https://main--football-players-rd.netlify.app)
+
+**Demo Users:**
+
+    - Email: peter@abv.bg
+    - Password: 123456
+
+    - Email: george@abv.bg
+    - Password: 123456
 
 ## Features
 
@@ -35,18 +59,6 @@ The main objective of Football Player application is to provide users with an ea
 - Access a personal profile page with players they added
 - Edit or delete their own players
 - Like other users players
-
-## Demo
-
-Check out the live demo of Football Players at [https://main--football-players-rd.netlify.app/](https://main--football-players-rd.netlify.app/)
-
-**Demo Users:**
-
-    - Email: peter@abv.bg
-    - Password: 123456
-
-    - Email: george@abv.bg
-    - Password: 123456
 
 ## Deployment
 
@@ -116,3 +128,7 @@ The routing configuration defines the navigation paths within the application, a
 
 ## Footer
 ![footer](https://github.com/RosenDobrev10/Football-Players/assets/104829819/f5c27107-ea9b-437c-8ba0-cc51c3a6fc28)
+
+## License
+
+This project is licensed under the MIT License
